@@ -7,3 +7,6 @@ Martian Trail is a simulation game inspired by the game Oregon Trail. Martian Tr
 # Purpose of the game
 The game is created in order to help people, especially high school student, to train their money management skills (figure out which items to spend money on and conduct trade), get familiar with cryptograms (solve puzzles). The game is also made to introduce our vision about the future when people begin to colonize Mars.
 The target audience includes middle school and high school students who mostly are unfamiliar with money management and cryptograms.
+
+## Note
+See [here](https://drive.google.com/drive/folders/0BwuOzm2DpGKEMi1aX2NiYmk5Sms?usp=sharing) for full project file.

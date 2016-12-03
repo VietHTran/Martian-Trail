@@ -6,78 +6,21 @@ Direct3D:
     Vendor:   Intel
     VRAM:     1642 MB
 Begin MonoManager ReloadAssembly
-Platform assembly: C:\Users\Viet\Desktop\VietOnly\Anonymous\Unity\Storage\MartianTrail\MartianTrail_Data\Managed\UnityEngine.dll (this message is harmless)
-Loading C:\Users\Viet\Desktop\VietOnly\Anonymous\Unity\Storage\MartianTrail\MartianTrail_Data\Managed\UnityEngine.dll into Unity Child Domain
-Platform assembly: C:\Users\Viet\Desktop\VietOnly\Anonymous\Unity\Storage\MartianTrail\MartianTrail_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
-Loading C:\Users\Viet\Desktop\VietOnly\Anonymous\Unity\Storage\MartianTrail\MartianTrail_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
-Platform assembly: C:\Users\Viet\Desktop\VietOnly\Anonymous\Unity\Storage\MartianTrail\MartianTrail_Data\Managed\Assembly-CSharp.dll (this message is harmless)
-Loading C:\Users\Viet\Desktop\VietOnly\Anonymous\Unity\Storage\MartianTrail\MartianTrail_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
-Platform assembly: C:\Users\Viet\Desktop\VietOnly\Anonymous\Unity\Storage\MartianTrail\MartianTrail_Data\Managed\UnityEngine.UI.dll (this message is harmless)
-Loading C:\Users\Viet\Desktop\VietOnly\Anonymous\Unity\Storage\MartianTrail\MartianTrail_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
-Platform assembly: C:\Users\Viet\Desktop\VietOnly\Anonymous\Unity\Storage\MartianTrail\MartianTrail_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
-Loading C:\Users\Viet\Desktop\VietOnly\Anonymous\Unity\Storage\MartianTrail\MartianTrail_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-- Completed reload, in  0.108 seconds
-Platform assembly: C:\Users\Viet\Desktop\VietOnly\Anonymous\Unity\Storage\MartianTrail\MartianTrail_Data\Managed\System.Core.dll (this message is harmless)
-Platform assembly: C:\Users\Viet\Desktop\VietOnly\Anonymous\Unity\Storage\MartianTrail\MartianTrail_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\Viet\Desktop\VietOnly\Anonymous\Unity\Martian-Trail\MartianTrail\MartianTrail_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Viet\Desktop\VietOnly\Anonymous\Unity\Martian-Trail\MartianTrail\MartianTrail_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Viet\Desktop\VietOnly\Anonymous\Unity\Martian-Trail\MartianTrail\MartianTrail_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Viet\Desktop\VietOnly\Anonymous\Unity\Martian-Trail\MartianTrail\MartianTrail_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Viet\Desktop\VietOnly\Anonymous\Unity\Martian-Trail\MartianTrail\MartianTrail_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Viet\Desktop\VietOnly\Anonymous\Unity\Martian-Trail\MartianTrail\MartianTrail_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Viet\Desktop\VietOnly\Anonymous\Unity\Martian-Trail\MartianTrail\MartianTrail_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Viet\Desktop\VietOnly\Anonymous\Unity\Martian-Trail\MartianTrail\MartianTrail_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Viet\Desktop\VietOnly\Anonymous\Unity\Martian-Trail\MartianTrail\MartianTrail_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Viet\Desktop\VietOnly\Anonymous\Unity\Martian-Trail\MartianTrail\MartianTrail_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  4.769 seconds
+Platform assembly: C:\Users\Viet\Desktop\VietOnly\Anonymous\Unity\Martian-Trail\MartianTrail\MartianTrail_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Viet\Desktop\VietOnly\Anonymous\Unity\Martian-Trail\MartianTrail\MartianTrail_Data\Managed\System.dll (this message is harmless)
 desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 46.206081 ms
-Setting up 1 worker threads for Enlighten.
-  Thread -> id: 6b94 -> priority: 1 
-Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 42.545223 ms
-
-Unloading 41 unused Assets to reduce memory usage. Loaded Objects now: 653.
-Total: 0.686732 ms (FindLiveObjects: 0.061581 ms CreateObjectMapping: 0.046186 ms MarkObjects: 0.523446 ms  DeleteObjects: 0.054584 ms)
-
-The referenced script on this Behaviour (Game Object 'HealthGreen') is missing!
- 
-(Filename:  Line: 1655)
-
-Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 0.751580 ms
-NullReferenceException: Object reference not set to an instance of an object
-  at Stat.set_MaxVal (Single value) [0x00000] in <filename unknown>:0 
-  at Stat.Initialize () [0x00000] in <filename unknown>:0 
-  at Player.Awake () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-
-Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 5276.
-Total: 2.439486 ms (FindLiveObjects: 0.248194 ms CreateObjectMapping: 0.146957 ms MarkObjects: 2.029406 ms  DeleteObjects: 0.014462 ms)
-
-Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 4.651306 ms
-
-Unloading 405 unused Assets to reduce memory usage. Loaded Objects now: 1559.
-Total: 1.864254 ms (FindLiveObjects: 0.113366 ms CreateObjectMapping: 0.080243 ms MarkObjects: 1.403789 ms  DeleteObjects: 0.265455 ms)
-
-The referenced script on this Behaviour (Game Object 'HealthGreen') is missing!
- 
-(Filename:  Line: 1655)
-
-Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 1.490563 ms
-
-Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 15461.
-Total: 4.250556 ms (FindLiveObjects: 0.657341 ms CreateObjectMapping: 0.500120 ms MarkObjects: 3.053906 ms  DeleteObjects: 0.038722 ms)
-
-Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 12.342522 ms
-
-Unloading 591 unused Assets to reduce memory usage. Loaded Objects now: 841.
-Total: 1.639853 ms (FindLiveObjects: 0.124563 ms CreateObjectMapping: 0.097038 ms MarkObjects: 0.843486 ms  DeleteObjects: 0.573832 ms)
-
-340.5
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
-
-Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 1.123404 ms
-
-Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 1836.
-Total: 1.761151 ms (FindLiveObjects: 0.145557 ms CreateObjectMapping: 0.071379 ms MarkObjects: 1.525553 ms  DeleteObjects: 0.017728 ms)
-
+UnloadTime: 1.003972 ms
