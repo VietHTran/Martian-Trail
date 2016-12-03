@@ -1,0 +1,8 @@
+*.exr filter=lfs diff=lfs merge=lfs -text
+*.exe filter=lfs diff=lfs merge=lfs -text
+*.assets filter=lfs diff=lfs merge=lfs -text
+*.caw filter=lfs diff=lfs merge=lfs -text
+*.ecm filter=lfs diff=lfs merge=lfs -text
+*.sse filter=lfs diff=lfs merge=lfs -text
+*.rgb filter=lfs diff=lfs merge=lfs -text
+*.vis filter=lfs diff=lfs merge=lfs -text
